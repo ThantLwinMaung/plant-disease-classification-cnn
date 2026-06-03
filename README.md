@@ -52,12 +52,12 @@ The CNN architecture consists of:
 
 ##  Results
 
-
-Metric                    Value
-Validation Accuracy       88.23%
-Number of Classes         38
-Confusion Matrix          Generated
-Classification Report     Generated
+| Metric | Value |
+|---------|---------|
+| Validation Accuracy | 88.23% |
+| Number of Classes | 38 |
+| Confusion Matrix | Generated |
+| Classification Report | Generated |
 
 ---
 
